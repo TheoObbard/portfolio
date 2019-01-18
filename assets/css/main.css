@@ -3190,3 +3190,24 @@ input, select, textarea {
 			}
 
 	}
+
+	.skills {
+		display: flex; 
+		justify-content: center;
+		align-items: center;
+	}
+
+	.skills_grid {
+		display: flex;
+		flex-direction: row;
+		list-style: none;
+		flex-wrap: wrap;
+		/* margin-left: 20%; */
+	}
+
+	.logo_icon {
+		padding-top: 8px;
+		height: 50px;
+		width: 50px;
+		background-position: contain;
+	}
