@@ -3772,8 +3772,8 @@ input, select, textarea {
 	padding-bottom: 20px;
 }
 
-a:link {
-	  text-decoration: none;
+.features {
+	text-decoration: none;
 }
 
 .my_button {
