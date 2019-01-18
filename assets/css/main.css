@@ -3806,3 +3806,21 @@ footer {
 	justify-content: center;
 	align-items: center;
 }
+
+/* css testing */
+
+canvas {
+	position: fixed;
+	z-index: -5;
+	top: 0;
+	left: 0;
+	/* -webkit-filter: blur( 10px ) contrast( 10 );
+	-moz-filter: blur( 10px ) contrast( 10 );
+	filter: blur( 10px ) contrast( 10 ); */
+} 
+/* 
+body {
+    background: hsl(235,60%,13%);
+    margin: 0;
+    overflow: hidden;
+} */
