@@ -1847,7 +1847,7 @@ input, select, textarea {
 		height: 50px;
 		width: 100px;
 		line-height: 2.75em;
-		/* min-width: 9.25em; */
+		min-width: 9.25em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
@@ -2599,6 +2599,8 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		display: flex;
+		justify-content: center;
 	}
 
 		ul.icons li {
