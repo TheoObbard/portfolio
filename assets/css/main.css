@@ -3797,3 +3797,10 @@ a:link {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
